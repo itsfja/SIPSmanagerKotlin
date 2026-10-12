@@ -1,4 +1,4 @@
-# The Ladybird Book of SIPS Manager
+# The Ladybird Book of SIPS Management, now with added Kotlin.
 
 *A gentle, friendly guide to help you look after your plants, check the weather, and manage your garden companion.*
 
